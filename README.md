@@ -1,3 +1,3 @@
 # Practice-java-codes
 
-This repository contains all the codes i wrote as part of Java Learning Process.
+This repository contains all the codes I wrote as part of Java Learning Process.
